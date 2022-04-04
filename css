@@ -1,0 +1,103 @@
+
+        body {
+            background-color: WHITE;
+        }
+        header {
+            background: #383838;
+            display: table;
+        }
+
+        .menu {
+            width: 100%;
+            margin: 0 50em 0em 0;
+        }
+
+        #leg {
+            width: 50px;
+            float: left;
+            padding: 0 0 1em 1em;
+        }
+        nav {
+            float: center;
+        }
+
+        nav ul li {
+            margin: 0 4em 0 13em;
+            float: left;
+            position: relative;
+            line-height: 3em;
+        }
+
+        nav ul li a {
+            color: rgb(255, 255, 255);
+            font-weight: bold;
+        }
+        table, th, td {
+            margin: -3em 3em 2em 3em;
+            padding: 25px;
+            border: 0px solid white;
+        }
+        tr {
+            background-color: #F1DDFA;
+        }
+        a {
+            margin: 0px 0px 0px 0px;
+        }
+        nav a{
+            text-decoration:none;
+            font-size: 24px;
+            font-display: justify;
+        } 
+        nav li{
+            display:inline-block;
+            width:10%;
+            padding:5px 10px;
+            text-align: justify;
+        }
+        img {
+            position: relative;
+        }
+        .wan {
+            background: rgba(238,227,242,1);
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0 3em 0em 0;
+        }
+        .tu {
+            background-color: #D1F2EB;
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0 0 2em 3em;
+        }
+        .tri {
+            background-color: #FCF3CF;
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0 3em 2em 0;
+        }
+        #pp {
+            text-align: center ;
+        }
+        #bon {
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-style: italic;
+            background-color: #D7BDE2;
+        }
+        #we {
+            width: 430px;
+            position: relative;
+            top: -350px; left: 510px;
+        }
+        #wey {
+            width: 320px;
+            position: relative;
+            top: -350px; left: 520px;
+            
+        }
+        #nmms {
+            width: 500px;
+            position: relative;
+            top: -20px; left: -200px;
+        }
+        #zi {
+            width: 500px;
+            position: relative; 
+            top: -330px; left: 0px;
+        }
